@@ -1,17 +1,18 @@
-#Avg_train_test Code Book
-##activity - factor variable with 6 levels: 
+# Avg_train_test Code Book
+## activity
+### factor variable with 6 levels: 
 1. LAYING
 2. SITING
 3. STANDING
 4. WALKING
 5. WALKING_DOWNDTAIRS
 6. WALKING_UPSTAIRS
-##volunteer - integer variable 1:30
+## volunteer - integer variable 1:30
 1 .volunteer number #1
 2 .volunteer number #2
 3 .volunteer number #3
 ...
-##66 other -  numeric variables of mean and standard deviation for the following             patterns:
+## 66 other -  numeric variables of mean and standard deviation for the following patterns:
             01. tBodyAcc-mean()-X 
             02. tBodyAcc-mean()-Y
             03. tBodyAcc-mean()-Z         
